@@ -1,2 +1,2 @@
 # threads
-Selected content that lilnks to Threads.net/@drtomasaragon
+Selected content that lilnks to https://threads.net/@drtomasaragon
